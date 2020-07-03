@@ -1,0 +1,17 @@
+.fRight{
+    float: right;
+}
+.fa-hand-holding-usd{
+    font-size: 2.5rem;
+
+}
+body{
+    background: url("https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80");
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+}
+.container{
+    padding-top: 10px;
+}
